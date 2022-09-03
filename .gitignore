@@ -11,11 +11,6 @@
 npm-debug.log
 yarn-error.log
 
-# Variables de entorno
-/src/environments
-/src/environments/environment.prod.ts
-/src/environments/environment.ts
-
 # IDEs and editors
 .idea/
 .project
@@ -45,3 +40,4 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+src/environments/environment.ts

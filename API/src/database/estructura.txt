@@ -1,0 +1,11 @@
+Tabla Listado
+Campo tipo 
+
+id				pk int 
+DVD 			float
+nombreCD 		nvarchar 	255
+nombreCancion 	nvarchar 	255
+tamanoBytes 	float
+fechaGrabacion 	datetime
+tamanoMegaBytes float
+estilo			nvarchar	50

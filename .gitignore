@@ -8,6 +8,7 @@
 
 # Node
 /node_modules
+/API/node_modules
 npm-debug.log
 yarn-error.log
 
@@ -41,4 +42,10 @@ testem.log
 .DS_Store
 Thumbs.db
 src/environments/
+
+# Docker Files
+.docker/
+
+# Environment
+.env
 
